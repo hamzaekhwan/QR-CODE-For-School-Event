@@ -40,8 +40,3 @@ Track Attendance: Scan the QR codes at the event to track attendance.
 Export Attendance Data: Export attendance data in various formats using the provided endpoints.
 Contributing
 Contributions are welcome. Please feel free to submit a pull request or open an issue.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-This template provides a basic structure for your README file. You can expand on each section to include more detailed information about your project, such as screenshots, code examples, and specific instructions for contributors.
